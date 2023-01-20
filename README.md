@@ -1,0 +1,2 @@
+- Vue3;
+- The app allows the user to create, save and delete contacts.
